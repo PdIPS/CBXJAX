@@ -1,6 +1,6 @@
+<img width="876" height="456" alt="cbxjax_logo" src="https://github.com/user-attachments/assets/9c2e50a9-6b2c-4441-a8a7-51886fe1c395" />
 # CBXJAX
 
-<img width="876" height="456" alt="cbxjax_logo" src="https://github.com/user-attachments/assets/790b5910-7d2c-4b03-a43d-32d3dbb9677c" />
 
 
 JAX compatible implementation of CBXpy
